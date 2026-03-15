@@ -1,4 +1,4 @@
-FindMaxElemOfArray. C# Tutorials. DotNet Framework Platform. Simple Input/Output. Arrays. Algorithms. Console Application. 
+FindMaxElemOfArray. C# Tutorials. DotNet Framework Platform. Simple Input/Output. Arrays. Algorithms. Console Application.
 The console application project is written in C# using the Microsoft Visual Studio integrated development environment. 
 It features simple input/output. It also handles arrays and random numbers. Finding the maximum element in an array is also possible.
 The program does the following:
